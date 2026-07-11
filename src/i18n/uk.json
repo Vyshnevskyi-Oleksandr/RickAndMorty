@@ -1,0 +1,35 @@
+{
+  "search": {
+    "placeholder": "Пошук персонажа..."
+  },
+  "status": {
+    "alive": "Живий",
+    "dead": "Мертвий",
+    "unknown": "Невідомо"
+  },
+  "character": {
+    "species": "Вид",
+    "type": "Тип",
+    "gender": "Стать",
+    "origin": "Походження",
+    "location": "Місцезнаходження",
+    "episodes": "Епізоди",
+    "genderValues": {
+      "Female": "Жіноча",
+      "Male": "Чоловіча",
+      "Genderless": "Безстатевий",
+      "unknown": "Невідомо"
+    }
+  },
+  "errors": {
+    "fetchFailed": "Не вдалося завантажити дані",
+    "retry": "Спробувати знову"
+  },
+  "states": {
+    "empty": "Персонажів не знайдено",
+    "loading": "Завантаження..."
+  },
+  "favorites": {
+    "title": "Обране"
+  }
+}

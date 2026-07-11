@@ -1,0 +1,35 @@
+{
+  "search": {
+    "placeholder": "Search character..."
+  },
+  "status": {
+    "alive": "Alive",
+    "dead": "Dead",
+    "unknown": "Unknown"
+  },
+  "character": {
+    "species": "Species",
+    "type": "Type",
+    "gender": "Gender",
+    "origin": "Origin",
+    "location": "Location",
+    "episodes": "Episodes",
+    "genderValues": {
+      "Female": "Female",
+      "Male": "Male",
+      "Genderless": "Genderless",
+      "unknown": "Unknown"
+    }
+  },
+  "errors": {
+    "fetchFailed": "Failed to load data",
+    "retry": "Try again"
+  },
+  "states": {
+    "empty": "No characters found",
+    "loading": "Loading..."
+  },
+  "favorites": {
+    "title": "Favorites"
+  }
+}
