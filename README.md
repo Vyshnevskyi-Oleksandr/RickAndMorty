@@ -8,7 +8,7 @@ This project uses native modules (specifically `react-native-mmkv` for high-perf
    ```
 2. Start the development build on an Android emulator or plugged-in device:
    ```bash
-   npx expo run:android
+   npm run android
    ```
    *(For iOS, run `npx expo run:ios` on a Mac with Xcode installed).*
 
@@ -26,9 +26,10 @@ As of 2026, Expo has become the de facto standard for most new projects (officia
 ## What I'd do next with a few more hours
 
 1. I would add a "favorites" tab to display the heroes that have already been added to favorites.
-2. I would add seamless shared element transitions using Reanimated when navigating from the character list to the detail screen for a more premium feel.
-3. It would be possible to make the app usable offline.
-4. I would set up Maestro or Detox to cover the critical user flows (searching, paginating, and favoriting characters).
+2. I would add the ability to sort and filter heroes.
+3. I would add seamless shared element transitions using Reanimated when navigating from the character list to the detail screen for a more premium feel.
+4. It would be possible to make the app usable offline.
+5. I would set up Maestro or Detox to cover the critical user flows (searching, paginating, and favoriting characters).
 
 ## Taking this to Production
 
